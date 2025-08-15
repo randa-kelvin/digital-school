@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# ZimStack School Management Dashboard
 
 ## Getting Started
 
